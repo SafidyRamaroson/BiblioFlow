@@ -7,6 +7,7 @@
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/java"/>
                 
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/BookServlet"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/Utils"/>
                 
         <property name="context-root" value="biblioFlowProject"/>
                 
